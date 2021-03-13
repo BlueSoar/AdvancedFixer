@@ -1,4 +1,4 @@
-# AdvancedFixer
+# AdvancedFixer-CATSERVER
 Fix some problems of ArmourersWorkshop and Pixelmon
 # ⚠Note
 This Plugin can only use on CatServer(https://catserver.moe/)
